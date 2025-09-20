@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Hamza 👋  
 
-<!--
-**syed2hamza12-coder/syed2hamza12-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Graduate student @ Georgia Tech (OMSA Program)  
+🔐 Manager of Screening Operations at the Airport 
+💻 Interested in Data Science, Optimization, and Simulations
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Featured Projects
+- **PCA Food Consumption Analysis** – Using R and PCA to find dietary patterns across Europe  - Completed as part of ISYE 6501: Intro to Analytics Modeling @ Georgia Tech.
+- **Airport Screening Simulation** – Arena simulation of checkpoint workflows - Completed as part of ISYE 6740: Computational Data Analysis / Machine Learning @ Georgia Tech.
+- **Credit Data Classification** – Logistic regression & SVM models on credit datasets - Completed as part of ISYE 6740: Computational Data Analysis / Machine Learning @ Georgia Tech.
+- **AdaBoost on Handwritten Digits (2 vs 6)** – Implemented AdaBoost with decision stumps on the MNIST dataset to classify digits 2 and 6 - Completed as part of ISYE 6740: Computational Data Analysis / Machine Learning @ Georgia Tech.  
+- **Exponential Smoothing on Atlanta Temperatures** – Applied exponential smoothing to 20 years of daily high temperature data to analyze shifting seasonal patterns - Completed as part of ISYE 6501: Intro to Analytics Modeling @ Georgia Tech.  
+
+
+---
+
+### 🛠️ Skills & Tools
+- **Languages**: Python, R, SQL  
+- **Libraries**: Pandas, scikit-learn, ggplot2, Kernlab, KNN  
+- **Other**: Arena Simulation, Excel/Google Sheets automation  
+
+---
+
+✨ *Currently building my portfolio and adding more projects soon!*  
