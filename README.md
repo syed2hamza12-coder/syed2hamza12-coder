@@ -6,7 +6,7 @@
 
 ---
 
-### 🔥 Featured Projects
+### Featured Projects
 - **PCA Food Consumption Analysis** – Using R and PCA to find dietary patterns across Europe  - Completed as part of ISYE 6501: Intro to Analytics Modeling @ Georgia Tech.
 - **Airport Screening Simulation** – Arena simulation of checkpoint workflows - Completed as part of ISYE 6740: Computational Data Analysis / Machine Learning @ Georgia Tech.
 - **Credit Data Classification** – Logistic regression & SVM models on credit datasets - Completed as part of ISYE 6740: Computational Data Analysis / Machine Learning @ Georgia Tech.
